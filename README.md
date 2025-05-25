@@ -34,3 +34,9 @@ This project presents an Exploratory Data Analysis (EDA) and data visualization 
 - Plotly
 - NumPy
 - VS Code
+
+## ⚙️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Un-hacker/netflix-data-visualization
